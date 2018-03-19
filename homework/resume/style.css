@@ -1,0 +1,46 @@
+
+body {
+}
+
+div.homepage {
+  width: 500px;
+margin-left: auto;
+margin-right:auto;
+margin-top:2em;
+font-family: Roboto;
+text-align: center;
+}
+h2 {
+  font-variant: small-caps;
+  font-family: 'Roboto Condensed';
+  color: #555555;
+  margin-bottom: 0em;
+}
+body {
+  font-family: 'Cormorant Garamond';
+}
+span.dates {
+  font-size: 14px;
+  font-family: 'Cormorant Garamond';
+  float: right;
+  vertical-align: middle;
+  margin-top: .6em;
+}
+div.resume {
+  width: 600px;
+margin-left: auto;
+margin-right:auto;
+margin-top: 2em;
+}
+a {
+  text-decoration: none;
+  color: rgb(181, 48, 18);
+}
+p.first {
+  margin-top: 0;
+  margin-bottom: .2em;
+}
+
+ul {
+  margin-top: .5em;
+}
